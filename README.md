@@ -21,6 +21,39 @@ OS, Network, DB, Computer Architectrue, Software Engineering, Data Structure, et
 
 
 ### 
+# AWS SAA-C03
+review of AWS SAA 
+
+- AWS Solutions Architect Associate-level Certification
+  - issue date : 03.08.23
+  - [link to credly](https://www.credly.com/badges/d4ca0148-c796-47b6-9bb7-29f813c6a730/linked_in_profile)
+  <img src=https://github.com/seoyeonK/CS_study/assets/50603274/07fe51ad-fda4-48bf-8b17-c699d614bedf width=50%>
+| Section | link to content |
+| :-: | :-: |
+| 1| [Region & AZ](https://velog.io/@kim_sunnnny/AWS-SAA-Region-AZ-IAM-AWS-CLI) |
+| 2 | [IAM & AWS CLI](https://velog.io/@kim_sunnnny/AWS-SAA-Region-AZ-IAM-AWS-CLI) |
+| 3 | [EC2]() |
+| 4 | [ELB, ASG]() |
+| 5 | [DB : RDS, Aurora, ElastiCache]() |
+| 6 | [Route 53]() |
+| 7 | [S3]() |
+| 8 | [CloudFront, AWS Global Accelerator]() |
+| 9 | [Storage extras- Snow Family, FSx, Storage Gateway, Transfer family, DataSync]() |
+| 10 | [Decoupling - SQS, SNS, Kinesis, Active MQ]() |
+| 11 | [Containers : ECS, Fargate, ECR, EKS]() |
+| 12 | [Serverless]() |
+| 13 | [DB Services compared]() |
+| 14 | [Data & Analytics]() |
+| 15 | [Machine Learning]() |
+| 16 | [Monitoring - CloudWatch, CloudTrail & AWS Config]() |
+| 17 | [advanced IAM]() |
+| 18 | [Security & Encryption]() |
+| 19 | [Networking - VPC]() |
+| 20 | [Disaster Recovery, Migrations]() |
+
+
+
+
 
 # Network
 
