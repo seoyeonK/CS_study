@@ -28,11 +28,12 @@ review of AWS SAA
   - issue date : 03.08.23
   - [link to credly](https://www.credly.com/badges/d4ca0148-c796-47b6-9bb7-29f813c6a730/linked_in_profile)
   <img src=https://github.com/seoyeonK/CS_study/assets/50603274/07fe51ad-fda4-48bf-8b17-c699d614bedf width=50%>
+
 | Section | link to content |
 | :-: | :-: |
 | 1| [Region & AZ](https://velog.io/@kim_sunnnny/AWS-SAA-Region-AZ-IAM-AWS-CLI) |
 | 2 | [IAM & AWS CLI](https://velog.io/@kim_sunnnny/AWS-SAA-Region-AZ-IAM-AWS-CLI) |
-| 3 | [EC2]() |
+| 3 | [EC2](https://velog.io/@kim_sunnnny/AWS-SAA-EC2) |
 | 4 | [ELB, ASG]() |
 | 5 | [DB : RDS, Aurora, ElastiCache]() |
 | 6 | [Route 53]() |
