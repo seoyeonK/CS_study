@@ -57,8 +57,8 @@ review of AWS SAA
 # Linux
 | Section | link to content |
 | :-: | :-: |
-| 1 | [basic setup] () |
-| 2 | [commands] () |
+| 1 | [basic setup]() |
+| 2 | [commands]() |
 
 
 # Network
