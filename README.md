@@ -10,13 +10,7 @@ OS, Network, DB, Computer Architectrue, Software Engineering, Data Structure, et
 | 0 | [OS intro](https://velog.io/@kim_sunnnny/OS-OS-intro-%EC%9E%91%EC%84%B1-%EC%A4%91) |
 | 1 | [Process & Thread](https://velog.io/@kim_sunnnny/OS-process-and-thread)|
 | 2 | [CPU Scheduling](https://velog.io/@kim_sunnnny/OS-CPU-scheduling) |
-| 3 | [Process Synchronization]() |
-| 4 | [Deadlock]() |
-| 5 | [Interim]() |
-| 6 | [Memory]() |
-| 7 | [Virtual Memory]() |
-| 8 | [I/O Device Controller]() |
-| 9 | [File System]() |
+| 3 | [Process Synchronization + Deadlock]() |
 
 
 
